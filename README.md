@@ -8,4 +8,4 @@ page on the Regular Paperfold Sequence (https://en.wikipedia.org/wiki/Regular_pa
 
 "In each iteration of this process, a 1 is placed at the end of the previous iteration's string, then this string is repeated in reverse order, replacing 0 by 1 and vice versa."
 
-Input is done via the console just like the WordFunnel 1 and I before E except after C projects.
+Input is done via the console just like the 'WordFunnel 1' and 'I before E except after C' projects.
